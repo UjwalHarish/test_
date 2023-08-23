@@ -1,0 +1,8 @@
+command line operation for smooth running of JAVA program:
+1. set jdk path:
+  set path= "";
+2.change directory:
+  cd [paste the path of the folder where your java program is stored]
+
+3. javac program_name.java
+4.java program_name
